@@ -1,0 +1,13 @@
+{
+    "name": "live-location-map",
+    "version": "1.0.0",
+    "description": "Node.js application to display live mobile location on a map",
+    "main": "server/app.js",
+    "scripts": {
+      "start": "node server/app.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1"
+    }
+  }
+  
